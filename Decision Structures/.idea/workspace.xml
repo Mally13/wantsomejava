@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801881d0-ead3-4a03-82f0-8acb773660af" name="Default Changelist" comment="" />
+    <list default="true" id="801881d0-ead3-4a03-82f0-8acb773660af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/WantSomeJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Decision Structures/decisionstructures_operators_expressions/DecisionStructures_Operators_Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Decision Structures/decisionstructures_operators_expressions/DecisionStructures_Operators_Expressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decisionstructures_operators_expressions/DecisionStructures_Operators_Expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decisionstructures_operators_expressions/DecisionStructures_Operators_Expressions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WNboucdWo75nIVYQDsoAsTkY5p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +36,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="DecisionStructures_Operators_Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -73,21 +89,29 @@
       <screen x="0" y="27" width="1366" height="705" />
     </state>
     <state x="359" y="86" width="638" height="594" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.27.1366.705@0.27.1366.705" timestamp="1579874324243" />
-    <state width="1320" height="161" key="GridCell.Tab.0.bottom" timestamp="1579874275890">
+    <state x="798" y="137" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580473712599">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="1320" height="161" key="GridCell.Tab.0.bottom/0.27.1366.705@0.27.1366.705" timestamp="1579874275890" />
-    <state width="1320" height="161" key="GridCell.Tab.0.center" timestamp="1579874275889">
+    <state x="798" y="137" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.705@0.27.1366.705" timestamp="1580473712599" />
+    <state width="656" height="161" key="GridCell.Tab.0.bottom" timestamp="1580470868689">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="1320" height="161" key="GridCell.Tab.0.center/0.27.1366.705@0.27.1366.705" timestamp="1579874275889" />
-    <state width="1320" height="161" key="GridCell.Tab.0.left" timestamp="1579874275866">
+    <state width="656" height="161" key="GridCell.Tab.0.bottom/0.27.1366.705@0.27.1366.705" timestamp="1580470868689" />
+    <state width="656" height="161" key="GridCell.Tab.0.center" timestamp="1580470868687">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="1320" height="161" key="GridCell.Tab.0.left/0.27.1366.705@0.27.1366.705" timestamp="1579874275866" />
-    <state width="1320" height="161" key="GridCell.Tab.0.right" timestamp="1579874275890">
+    <state width="656" height="161" key="GridCell.Tab.0.center/0.27.1366.705@0.27.1366.705" timestamp="1580470868687" />
+    <state width="656" height="161" key="GridCell.Tab.0.left" timestamp="1580470868686">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="1320" height="161" key="GridCell.Tab.0.right/0.27.1366.705@0.27.1366.705" timestamp="1579874275890" />
+    <state width="656" height="161" key="GridCell.Tab.0.left/0.27.1366.705@0.27.1366.705" timestamp="1580470868686" />
+    <state width="656" height="161" key="GridCell.Tab.0.right" timestamp="1580470868688">
+      <screen x="0" y="27" width="1366" height="705" />
+    </state>
+    <state width="656" height="161" key="GridCell.Tab.0.right/0.27.1366.705@0.27.1366.705" timestamp="1580470868688" />
+    <state x="0" y="27" width="1356" height="705" key="new project wizard" timestamp="1580473738202">
+      <screen x="0" y="27" width="1366" height="705" />
+    </state>
+    <state x="0" y="27" width="1356" height="705" key="new project wizard/0.27.1366.705@0.27.1366.705" timestamp="1580473738202" />
   </component>
 </project>
