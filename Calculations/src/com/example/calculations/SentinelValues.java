@@ -1,4 +1,4 @@
 package com.example.calculations;
 
-public class SentineValues {
+public class SentinelValues {
 }
