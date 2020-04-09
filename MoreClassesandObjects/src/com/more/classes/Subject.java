@@ -1,4 +1,54 @@
 package com.more.classes;
 
-public class Subject {
+public class Subject
+{
+    private String subjectCode;
+    private String subjectName;
+
+    public Subject(String subjectCode, String subjectName)
+    {
+        this.subjectCode=subjectCode;
+        this.subjectName=subjectName;
+    }
+    public Subject(Subject subject)
+    {
+        this.subjectCode=subject.subjectCode;
+        this.subjectName=subject.subjectName;
+    }
+    public boolean equals(Subject object)
+    {
+        return(this.subjectName.equals(object.subjectName)&&
+        this.subjectCode.equals(object.subjectCode));
+
+    }
+
+    public String getSubjectCode()
+    {
+        return subjectCode;
+    }
+
+    public String getSubjectName()
+    {
+        return subjectName;
+    }
+
+    public void setSubjectCode(String subjectCode)
+
+    {
+        this.subjectCode = subjectCode;
+    }
+
+    public void setSubjectName(String subjectName)
+    {
+        this.subjectName = subjectName;
+    }
+    //to override the default tostring method that only returns the hashcode for the memory location hence making it more sensiblr=e to user
+    @Override
+    public String toString()
+    {
+        return "Subject Information:\n" +
+                "Subject Code: " +subjectCode +"\n" +
+                "Subject Name: " +subjectName ;
+
+    }
 }
